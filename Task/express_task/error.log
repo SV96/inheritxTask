@@ -1,0 +1,98 @@
+[32msuccess[39m: User Fetched saved
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user
+[31merror[39m: Error in Validatin user ValidationError: "email" must be a valid email
+[31merror[39m: Error in Validatin user ValidationError: "mobileNumber" with value "String" fails to match the required pattern: /^[0-9]{10}%/
+[31merror[39m: Error in Validatin user ValidationError: "mobileNumber" with value "7894561230" fails to match the required pattern: /^[0-9]{10}%/
+[31merror[39m: Error in Validatin user ValidationError: "mobileNumber" must be a string
+[31merror[39m: Error in Validatin user ValidationError: "mobileNumber" with value "7894561230" fails to match the required pattern: /^[0-9]{10}%/
+[31merror[39m: Error in Validatin user ValidationError: "mobileNumber" with value "7412589630" fails to match the required pattern: /^[0-9]{10}%/
+[31merror[39m: Error in saving user MongooseError: Operation `users.insertOne()` buffering timed out after 10000ms
+[31merror[39m: Error in saving user MongooseError: Operation `users.insertOne()` buffering timed out after 10000ms
+[31merror[39m: Error in saving user MongooseError: Operation `users.insertOne()` buffering timed out after 10000ms
+[31merror[39m: Error in saving user MongooseError: Operation `users.insertOne()` buffering timed out after 10000ms
+[31merror[39m: Error in saving user MongooseError: Operation `users.insertOne()` buffering timed out after 10000ms
+[31merror[39m: Error in saving user MongooseError: Operation `users.insertOne()` buffering timed out after 10000ms
+[32msuccess[39m: User Saved
+[31merror[39m: Error in saving user TypeError: Cannot read properties of null (reading 'password')
+[32msuccess[39m: User Saved
+[32msuccess[39m: User Saved
+[31merror[39m: Error in saving user TypeError: Cannot read properties of null (reading 'save')
+[32msuccess[39m: User Saved
+[31merror[39m: Error Auth Moiddleware JsonWebTokenError: invalid signature
+[31merror[39m: Error Auth Moiddleware JsonWebTokenError: invalid signature
+[31merror[39m: Error Auth Moiddleware JsonWebTokenError: invalid signature
+[31merror[39m: Error Auth Moiddleware JsonWebTokenError: invalid signature
+[31merror[39m: Error Auth Moiddleware JsonWebTokenError: invalid signature
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Authenticated successfully
+[34minfo[39m: Invalidated Token pushed
+[31merror[39m: Error in Validatin user ValidationError: "email" is required
+[31merror[39m: Error in Validatin user ValidationError: "email" is required
+[32msuccess[39m: User Saved
+[32msuccess[39m: User Saved
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Login Error : TypeError: Cannot read properties of null (reading 'password')
+[31merror[39m: Incorrect Credentails
+[31merror[39m: Incorrect Credentails
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: User Saved
+[32msuccess[39m: User Saved
+[32msuccess[39m: User Saved
+[32msuccess[39m: User Saved
+[32msuccess[39m: User Saved
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull
+[32msuccess[39m: Login successfull

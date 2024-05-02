@@ -1,0 +1,1 @@
+export const setUserInfoActionType = 'SET_USER_INFO'
